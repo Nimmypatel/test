@@ -1,0 +1,5 @@
+{{#user}}
+Name: Nirmit Patel
+Skills: HTML, CSS, JS, Next.js
+Email: nimmi1828@gmail.com
+{{/user}}
